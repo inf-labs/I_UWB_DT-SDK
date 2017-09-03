@@ -16,8 +16,8 @@ USART1 port of INF_STM32F407_CoreBoard send data frame to I_UWB_DT.
 # Support
 You can get support from INF and the community with the following methods:
 * website: www.inffuture.com
-* shop: www.infcre.taobao.com
+* shop: www.inffuture.taobao.com
 * github: www.github.com/inf-labs
-* wechat platform id: infcre
+* wechat platform id: inffuture
 
 
