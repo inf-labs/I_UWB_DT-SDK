@@ -13,6 +13,9 @@ The factory settings of I_UWB_DT:
 
 USART1 port of INF_STM32F407_CoreBoard send data frame to I_UWB_DT.
 
+# You can buy the kit in the store
+* https://item.taobao.com/item.htm?spm=a230r.1.14.19.6e9f168M8Ga6G&id=557760065507&ns=1&abbucket=1#detail
+
 # Support
 You can get support from INF and the community with the following methods:
 * website: www.inffuture.com
